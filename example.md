@@ -307,19 +307,86 @@ NASA 的管理团队也对这一结果表示欢迎，主管 Tom Johnson 表示�
 ```
 
 ```
+将以下中文翻译成西班牙语: \ 
+```您好，我想订购一个搅拌机。```
 ```
 
 ```
+请告诉我以下文本是什么语种: 
+```Combien coûte le lampadaire?```
 ```
 
 ```
+请将以下文本分别翻译成中文、英文、法语和西班牙语: 
+```I want to order a basketball.```
 ```
 
 ```
+请将以下文本翻译成中文，分别展示成正式与非正式两种语气: 
+```Would you like to order a pillow?```
 ```
 
 ```
+    将以下消息分别翻译成英文和中文，并写成
+    中文翻译：xxx
+    英文翻译：yyy
+    的格式：
+    ```La performance du système est plus lente que d'habitude.```
 ```
 
 ```
+将以下文本翻译成商务信函的格式: 
+```小老弟，我小羊，上回你说咱部门要采购的显示器是多少寸来着？```
+```
+
+```
+将以下Python字典从JSON转换为HTML表格，保留表格标题和列名：
+{ "resturant employees" :[ 
+    {"name":"Shyam", "email":"shyamjaiswal@gmail.com"},
+    {"name":"Bob", "email":"bob32@gmail.com"},
+    {"name":"Jai", "email":"jai87@gmail.com"}
+]}
+```
+
+```
+请校对并更正以下文本，注意纠正文本保持原始语种，无需输出原始文本。
+    如果您没有发现任何错误，请说“未发现错误”。
+    
+    例如：
+    输入：I are happy.
+    输出：I am happy.
+    ```"The girl with the black and white puppies have a ball.",  # The girl has a ball.```
+```
+
+```
+校对并更正以下商品评论：```Got this for my daughter for her birthday cuz she keeps taking \
+mine from my room.  Yes, adults also like pandas too.  She takes \
+it everywhere with her, and it's super soft and cute.  One of the \
+ears is a bit lower than the other, and I don't think that was \
+designed to be asymmetrical. It's a bit small for what I paid for it \
+though. I think there might be other options that are bigger for \
+the same price.  It arrived a day earlier than expected, so I got \
+to play with it myself before I gave it to my daughter.```
+```
+
+```
+针对以下三个反引号之间的英文评论文本，
+首先进行拼写及语法纠错，
+然后将其转化成中文，
+再将其转化成优质淘宝评论的风格，从各种角度出发，分别说明产品的优点与缺点，并进行总结。
+润色一下描述，使评论更具有吸引力。
+输出结果格式为：
+【优点】xxx
+【缺点】xxx
+【总结】xxx
+注意，只需填写xxx部分，并分段输出。
+将结果输出成Markdown格式。
+```Got this for my daughter for her birthday cuz she keeps taking \
+mine from my room.  Yes, adults also like pandas too.  She takes \
+it everywhere with her, and it's super soft and cute.  One of the \
+ears is a bit lower than the other, and I don't think that was \
+designed to be asymmetrical. It's a bit small for what I paid for it \
+though. I think there might be other options that are bigger for \
+the same price.  It arrived a day earlier than expected, so I got \
+to play with it myself before I gave it to my daughter.```
 ```
